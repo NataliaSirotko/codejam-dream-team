@@ -1,0 +1,131 @@
+[
+  {
+    "ru": {
+      "name": "name",
+      "city": "city",
+      "photo": "image name",
+      "description": "a few words about this man",
+      "creations": [
+        {
+          "name": "name",
+          "year": "year"
+        },
+        {
+          "name": "name",
+          "year": "year"
+        },
+        {
+          "name": "name",
+          "year": "year"
+        }
+      ],
+      "bio": [
+        {
+          "year": "year",
+          "event": "event"
+        },
+        {
+          "year": "year",
+          "event": "event"
+        },
+        {
+          "year": "year",
+          "event": "event"
+        }
+      ],
+      "gallery": [
+        "photo name",
+        "photo name",
+        "photo name"
+      ],
+      "video": "URL from youtube",
+      "coordinates": "don't touch this :)"
+    }
+  },
+  {
+    "en": {
+      "name": "name",
+      "city": "city",
+      "photo": "image name",
+      "description": "a few words about this man",
+      "creations": [
+        {
+          "name": "name",
+          "year": "year"
+        },
+        {
+          "name": "name",
+          "year": "year"
+        },
+        {
+          "name": "name",
+          "year": "year"
+        }
+      ],
+      "bio": [
+        {
+          "year": "year",
+          "event": "event"
+        },
+        {
+          "year": "year",
+          "event": "event"
+        },
+        {
+          "year": "year",
+          "event": "event"
+        }
+      ],
+      "gallery": [
+        "photo name",
+        "photo name",
+        "photo name"
+      ],
+      "video": "URL from youtube",
+      "coordinates": "don't touch this :)"
+    }
+  },
+  {
+    "by": {
+      "name": "name",
+      "city": "city",
+      "photo": "image name",
+      "description": "a few words about this man",
+      "creations": [
+        {
+          "name": "name",
+          "year": "year"
+        },
+        {
+          "name": "name",
+          "year": "year"
+        },
+        {
+          "name": "name",
+          "year": "year"
+        }
+      ],
+      "bio": [
+        {
+          "year": "year",
+          "event": "event"
+        },
+        {
+          "year": "year",
+          "event": "event"
+        },
+        {
+          "year": "year",
+          "event": "event"
+        }
+      ],
+      "gallery": [
+        "photo name",
+        "photo name",
+        "photo name"
+      ],
+      "video": "URL from youtube",
+      "coordinates": "don't touch this :)"
+    }
+  }
+]
