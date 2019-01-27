@@ -29,23 +29,26 @@ export default class Header extends PureComponent {
     const interfaceTranslator = [
       {
         en: {
-          span: 'Header',
+          logo: 'Architects of Belarus',
           home: 'Home',
           category: 'Architects',
+          authors: 'Authors',
         },
       },
       {
         ru: {
-          span: 'Хедер',
-          home: 'Домой',
+          logo: 'Архитекторы Беларуси',
+          home: 'Главная',
           category: 'Архитекторы',
+          authors: 'Авторы',
         },
       },
       {
         by: {
-          span: 'Хэдар',
-          home: 'У хату',
+          logo: 'Архітэктары Беларусі',
+          home: 'Галоўная',
           category: 'Архітэктары',
+          authors: 'Аўтары',
         },
       },
     ];
@@ -54,14 +57,26 @@ export default class Header extends PureComponent {
     const langValue = lang[`${language}`];
 
     return (
-      <div className="header">
-        <span>{langValue.span}</span>
-        <button type="button" id="ru" onClick={this.languageHandle}>ru</button>
-        <button type="button" id="en" onClick={this.languageHandle}>en</button>
-        <button type="button" id="by" onClick={this.languageHandle}>by</button>
-        <button type="button" id="home" onClick={this.pageHandle}>{langValue.home}</button>
-        <button type="button" id="category" onClick={this.pageHandle}>{langValue.category}</button>
-      </div>
+      <header>
+        <button type="button" className="logo" id="home" onClick={this.pageHandle}>{langValue.logo}</button>
+        <ul className="navigationList">
+          <li><button type="button" id="home" onClick={this.pageHandle}>{langValue.home}</button></li>
+          <li><button type="button" href="#" id="category" onClick={this.pageHandle}>{langValue.category}</button></li>
+          <li><a href="#authors" id="authorsLink">{langValue.authors}</a></li>
+        </ul>
+
+        <ul className="languagesList">
+          <li>
+            <button type="button" id="ru" onClick={this.languageHandle}>Русский язык</button>
+          </li>
+          <li>
+            <button type="button" id="by" onClick={this.languageHandle}>Беларуская мова</button>
+          </li>
+          <li>
+            <button type="button" id="en" onClick={this.languageHandle}>English language</button>
+          </li>
+        </ul>
+      </header>
     );
   }
 }
