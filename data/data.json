@@ -428,44 +428,425 @@
   {
     "en": [
       {
-        "name": "name",
-        "city": "city",
-        "photo": "image name",
-        "description": "a few words about this man",
+        "name": "Heorhiy Vladimirovich Zaborsky",
+        "city": "Minsk",
+        "photo": "./img/zaborsky/zaborsky.jpg",
+        "description": "Folk Architect of the USSR, Honored builder of Belarus, academician of the Russian Academy of Architecture and Construction Sciences, academician of the Belarusian Academy of Architecture, USSR State Prize winner.",
         "creations": [
           {
-            "name": "name",
-            "year": "year"
+            "name": "Souvorov Military School in Minsk",
+            "year": "1950 - 1952"
           },
           {
-            "name": "name",
-            "year": "year"
+            "name": "CK LCUYB building in Minsk",
+            "year": "1950 - 1952"
           },
           {
-            "name": "name",
-            "year": "year"
+            "name": "Stalin’s monument in Minsk",
+            "year": "1952"
+          },
+          {
+            "name": "Monument on Victory Square in Minsk (in common with V. Korol)",
+            "year": "1954"
+          },
+          {
+            "name": "«Pioneer» cinema in Minsk",
+            "year": "1860s"
+          },
+          {
+            "name": "The Great Patriotic War museum in Minsk ",
+            "year": "1860s"
+          },
+          {
+            "name": "Memorial complex «Zyslov» in Minsk Region",
+            "year": "1860s"
           }
         ],
         "bio": [
           {
-            "year": "year",
-            "event": "event"
+            "year": "11 november 1909",
+            "event": "Was born in Minsk in a family of hereditary railway workers. His father Vladimir Heorhiyevich Zaborsky was an accountant. His mother name is Elena Ivanovna Zaborskaya."
           },
           {
-            "year": "year",
-            "event": "event"
+            "year": "1930",
+            "event": "Went to Minsk technical school of peasant refractory construction."
           },
           {
-            "year": "year",
-            "event": "event"
+            "year": "1933 - 1939",
+            "event": "Studied at the Russian Academy of Arts."
+          },
+          {
+            "year": "1941",
+            "event": "Went off to war as a volunteer."
+          },
+          {
+            "year": "1945 - 1964",
+            "event": "After the war, he returned to Belarus and led the architectural design workshops of design institutes Belgosproekt and Minskproekt and at the same time taught at the architectural department of the Belarusian Polytechnic Institute (now the Belarusian National Technical University)."
+          },
+          {
+            "year": "March 1964",
+            "event": "Moved to design institute BELNIIS."
+          },
+          {
+            "year": "1971",
+            "event": "Received USSR State Prize for planning and development of the village of Vertelishki, Grodno district of the Grodno region."
+          },
+          {
+            "year": "27 march 1999",
+            "event": "Date of death"
           }
         ],
         "gallery": [
-          "photo name",
-          "photo name",
-          "photo name"
+          "./img/zaborsky/1.jpg",
+          "./img/zaborsky/2.jpg",
+          "./img/zaborsky/3.jpg",
+          "./img/zaborsky/4.jpg",
+          "./img/zaborsky/5.jpg",
+          "./img/zaborsky/6.jpg",
+          "./img/zaborsky/7.jpg",
+          "./img/zaborsky/8.jpg",
+          "./img/zaborsky/9.jpg"
         ],
-        "video": "URL from youtube",
+        "video": "https://youtu.be/lxMfVdAml1A",
+        "coordinates": "don't touch this :)"
+      },
+      {
+        "name": "Victor Ivanovich Karako",
+        "city": "Grodno",
+        "photo": "./img/karako/karako.jpg",
+        "description": "Belarusian architect, board member of the Belarusian Union of Architects, laureate of the Lenin Komsomol Prize of Belarus, head of the creative workshop.",
+        "creations": [
+          {
+            "name": "Judge's house on the Borovaya racing ring",
+            "year": "70s - 90s"
+          },
+          {
+            "name": "Youth Center in Novopolotsk",
+            "year": "1982"
+          },
+          {
+            "name": "Reconstruction of school №4 in Minsk",
+            "year": "70s - 90s"
+          },
+          {
+            "name": "Dispensary State Security Committee and Council of Ministers on Lake Vyacha",
+            "year": "70s - 90s"
+          },
+          {
+            "name": "Ministry of the Interior building on the Opansky street in Minsk",
+            "year": "70s - 90s"
+          },
+          {
+            "name": "Gardener’s house in the Malashki village",
+            "year": "70s - 90s"
+          },
+          {
+            "name": "The building of the head center 'Belagroprombank' on Zhukov Avenue in Minsk",
+            "year": "70s - 90s"
+          }
+        ],
+        "bio": [
+          {
+            "year": "29 July 1948",
+            "event": "Was born in Grodno."
+          },
+          {
+            "year": "1966 — 1972",
+            "event": "Studied at the Department of Architecture of the Belarusian Polytechnic Institute."
+          },
+          {
+            "year": "1972 — 1976",
+            "event": "Worked as an architect, chief architect of projects, and head of a workshop at RUE 'Institute Belgosproekt'."
+          },
+          {
+            "year": "1976 — 1982",
+            "event": "Headed of the group of architects, chief architect of the projects, head of the Insitute for Regional and Urban Planning workshop."
+          },
+          {
+            "year": "1982",
+            "event": "Became the laureate of the Leninist Komsomol Prize of Belarus in the field of architecture for the design of the Palace of Youth in Novopolotsk. Returned to RUE 'Institute Belgosproekt'."
+          },
+          {
+            "year": "since 1998",
+            "event": "Heads his own creative workshop."
+          },
+          {
+            "year": "since 2003",
+            "event": "Teaches design at the Faculty of Architecture of the Belarusian National Technical University."
+          },
+          {
+            "year": "since 2005",
+            "event": "Member of the Board of the Belarusian Union of Architects, chairman of the BSA city organization and a member of the City Monumental and Decorative Council."
+          }
+        ],
+        "gallery": [
+          "./img/karako/1.jpg",
+          "./img/karako/2.jpg",
+          "./img/karako/3.jpg",
+          "./img/karako/4.jpg",
+          "./img/karako/5.jpg",
+          "./img/karako/6.jpg",
+          "./img/karako/7.jpg",
+          "./img/karako/8.jpg"
+        ],
+        "video": "https://youtu.be/S39Yeg8Slg4",
+        "coordinates": "don't touch this :)"
+      },
+      {
+        "name": "Vladimir Adamovich Karol",
+        "city": "Cherven",
+        "photo": "./img/korol/korol.jpg",
+        "description": "Folk Architect of the USSR. Member of the UCP(b) from 1940.",
+        "creations": [
+          {
+            "name": "One of the authors of the development of the general plan of Minsk",
+            "year": "1948 — 1969"
+          },
+          {
+            "name": "One of the authors of the design of Oktyabrskaya square and Leninskiy avenue",
+            "year": "1948 — 1969"
+          },
+          {
+            "name": "Main post office in Minsk (together with Abram Duhan)",
+            "year": "1949 — 1953"
+          },
+          {
+            "name": "Main telegraph building in Minsk (together with Abram Duhan)",
+            "year": "1949 — 1950s"
+          },
+          {
+            "name": "One of the authors of the Brest Fortress memorial complex",
+            "year": "1967 - 1969"
+          },
+          {
+            "name": "One of the authors of the monument on Victory square in Minsk",
+            "year": "1954"
+          }
+        ],
+        "bio": [
+          {
+            "year": "27 December 1912",
+            "event": "Was born in the town of Igumen (now Cherven, Minsk Region, Belarus)"
+          },
+          {
+            "year": "1931",
+            "event": "Graduated from the Vitebsk Art College."
+          },
+          {
+            "year": "1934 — 1941",
+            "event": "Studied at the faculty of architecture of the Russian Academy of Arts."
+          },
+          {
+            "year": "July - November 1941",
+            "event": "He was at the front and as an assistant military engineer of the division he took part in the defense of the city of Leningrad."
+          },
+          {
+            "year": "1945",
+            "event": "He is appointed head of the architectural and planning workshop of the RUE 'Institute Belgosproekt'."
+          },
+          {
+            "year": "since 1947",
+            "event": "Worked as a teacher, and then head of the department of town planning of the architectural department of the Belarusian Polytechnic Institute."
+          },
+          {
+            "year": "1955",
+            "event": "Headed the State Committee of the Council of Ministers of the BSSR on construction. As a representative of Belarus, he participated in the work of the Committee on Housing, Construction and Urban Planning of the United Nations Economic Commission for Europe."
+          },
+          {
+            "year": "1968",
+            "event": "State Prize of the BSSR - for the architecture of Leninsky Prospekt in Minsk."
+          },
+          {
+            "year": "1970",
+            "event": "Was awarded the title of national architect of the USSR."
+          },
+          {
+            "year": "28 May 1980",
+            "event": "Died."
+          }
+        ],
+        "gallery": [
+          "./img/korol/1.jpg",
+          "./img/korol/2.jpg",
+          "./img/korol/3.jpg",
+          "./img/korol/4.jpg",
+          "./img/korol/5.jpg",
+          "./img/korol/6.jpg",
+          "./img/korol/7.jpg",
+          "./img/korol/8.jpg",
+          "./img/korol/9.jpg"
+        ],
+        "video": "https://youtu.be/khRplMaYHek",
+        "coordinates": "don't touch this :)"
+      },
+      {
+        "name": "Anatoly Iosifovich Fridman",
+        "city": "Minsk",
+        "photo": "./img/fridman/fridman.jpg",
+        "description": "Belarusian architect. Member of the Union of Architects of the USSR and Belarus since 1973.",
+        "creations": [
+          {
+            "name": "SPU-70 building av. Mira, Mogilev",
+            "year": "1976"
+          },
+          {
+            "name": "'Pripyat' hotel Pinsk",
+            "year": "1980"
+          },
+          {
+            "name": "Sports and educational buildings of the Belarusian Technological Institute, Minsk",
+            "year": "1973"
+          },
+          {
+            "name": "Belarusian State Philharmonic Society interiors, Minsk",
+            "year": "1978"
+          },
+          {
+            "name": "House of Unions, Minsk",
+            "year": "1980"
+          },
+          {
+            "name": "12-storey residential building of the Belarusian Technological Institute",
+            "year": "1987"
+          },
+          {
+            "name": "SPU-55 in Minsk (1988 г.), dispensary of the Academy of Sciences of the BSSR near the Rakov village",
+            "year": "1976"
+          },
+          {
+            "name": "Children's clinic, Mogilev",
+            "year": "1979"
+          },
+          {
+            "name": "21-storey residential buildings of monolithic concrete in the area of Uruchye-2 in Minsk",
+            "year": "1991"
+          },
+          {
+            "name": "Monolithic concrete dwelling houses in Kirovakan. Armenia",
+            "year": "1990"
+          }
+        ],
+        "bio": [
+          {
+            "year": "17 May 1945",
+            "event": "Was born in Minsk"
+          },
+          {
+            "year": "1964",
+            "event": "Graduated from the Minsk Construction College."
+          },
+          {
+            "year": "1969",
+            "event": "Graduated from the Belarusian Polytechnic Institute."
+          },
+          {
+            "year": "1974 — 1979",
+            "event": "Studied at the graduate school at the department of architecture of Belarusian Polytechnic Institute."
+          },
+          {
+            "year": "1969 — 1993",
+            "event": "Worked in Minsk at the RUE 'Institute Belgosproekt' as an architect, chief architect of projects, head of the department of monolithic construction."
+          },
+          {
+            "year": "1992 — 1997",
+            "event": "Head of the personal creative workshop, co-owner of the construction company in Minsk 'SP Tambaz'."
+          },
+          {
+            "year": "since 1997",
+            "event": "Works in Chicago, USA - the owner of the architectural and construction company «Absolute construction, inc»."
+          }
+        ],
+        "gallery": [
+          "./img/fridman/1.jpg",
+          "./img/fridman/2.jpg",
+          "./img/fridman/3.jpg",
+          "./img/fridman/4.jpg",
+          "./img/fridman/5.jpg",
+          "./img/fridman/6.jpg"
+        ],
+        "video": "https://youtu.be/gw6ShOcw1UM",
+        "coordinates": "don't touch this :)"
+      },
+      {
+        "name": "Stanislav Danilovich Shabunevsky",
+        "city": "Skorodnoye",
+        "photo": "./img/shabunevsky/shabunevsky.jpg",
+        "description": "Belarusian architect, author of a significant part of the building development in Gomel at the beginning of the 20th century. Honorary Citizen of Gomel.",
+        "creations": [
+          {
+            "name": "Men’s gymnasium in Gomel (1898, now one of blocks of the Belarusian State University of Transport)",
+            "year": "1898"
+          },
+          {
+            "name": "Orlovskiy commercial bank at the corner of Rumyantsevskaya and Irininskaya streets in Gomel (1901, now it is administrative building at the corner of Sovetskaya and Irininskaya streets)",
+            "year": "1901"
+          },
+          {
+            "name": "Vilnius commercial bank department at the corner of Rumyantsevskaya and Troitskaya streets in Gomel (1910-1912, today it is administrative building on Sovatskaya street, 17/10)",
+            "year": "1910-1912"
+          },
+          {
+            "name": "Hotel «Savoy» on Rumyantsevskaya St. in Gomel (1912, did not remain up to now)",
+            "year": "1912"
+          },
+          {
+            "name": "Doctor’s house on Irininskaya street in Gomel (1903, now it is civil rites house)",
+            "year": "1903"
+          },
+          {
+            "name": "Fire department on Zamkovaya street in Gomel(1913, did not remain up to now)",
+            "year": "1913"
+          },
+          {
+            "name": "Civil and military hospitals on Paskevicha street (1914, not it is hospital on Komisarova street)",
+            "year": "1914"
+          }
+        ],
+        "bio": [
+          {
+            "year": "2 December 1866 / 1868",
+            "event": "Was born in the village of Skorodnoye (Yelsk District) in the family of an impoverished Belarusian gentry."
+          },
+          {
+            "year": "1891",
+            "event": "Graduated from the Slutsk gymnasium and entered the St. Petersburg Institute of Civil Engineers for a course in architecture."
+          },
+          {
+            "year": "1897",
+            "event": "Arrived in Gomel and was appointed as a city architect."
+          },
+          {
+            "year": "April 1919",
+            "event": "After the anti-Soviet Strekopytov uprising in Gomel, he was brought to justice for “relations with the rebels” and sentenced by a revolutionary tribunal to public criticism."
+          },
+          {
+            "year": "September 1919",
+            "event": "Was mobilized to the Red Army, where he served in military field construction."
+          },
+          {
+            "year": "1922",
+            "event": "Returned to Gomel, where he worked in various responsible positions related to construction and still continued to be engaged in designing."
+          },
+          {
+            "year": "1931",
+            "event": "First time arrested, but released some time later."
+          },
+          {
+            "year": "1937",
+            "event": "The second time he was arrested, convicted and imprisoned in a forced labor camp for 10 years (Bear Mountain, Belomorkanal), where he never returned. Date of death unknown."
+          }
+        ],
+        "gallery": [
+          "./img/shabunevsky/1.jpg",
+          "./img/shabunevsky/2.jpg",
+          "./img/shabunevsky/3.jpg",
+          "./img/shabunevsky/4.jpg",
+          "./img/shabunevsky/5.jpg",
+          "./img/shabunevsky/6.jpg",
+          "./img/shabunevsky/7.jpg",
+          "./img/shabunevsky/8.jpg"
+        ],
+        "video": "https://youtu.be/a43rFmrY78c",
         "coordinates": "don't touch this :)"
       }
     ]
