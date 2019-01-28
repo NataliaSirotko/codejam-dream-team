@@ -11,9 +11,9 @@ class App extends Component {
     super();
 
     this.state = {
-      language: 'ru',
+      language: 'by',
       main: 'home',
-      item: '',
+      item: '1',
     };
 
     this.languageSwitcher = this.languageSwitcher.bind(this);
@@ -44,12 +44,18 @@ class App extends Component {
 
     const lang = data.find(local => local[`${language}`]);
     const langValue = lang[`${language}`];
-
-    const itemToSingle = langValue.find(elem => elem.id === item);
+    const itemToSingle = langValue.find(elem => elem.id === +item);
 
     const mainDisplay = () => {
       if (main === 'home') {
-        return <Home language={language} />;
+        return (
+          <Home
+            language={language}
+            item={itemToSingle}
+            mainSwitcher={this.mainSwitcher}
+            setItem={this.setItem}
+          />
+        );
       }
       if (main === 'category') {
         return (
@@ -68,7 +74,7 @@ class App extends Component {
     };
 
     return (
-      <div className="app">
+      <div className="app mainContainer">
         <Header
           languageSwitcher={this.languageSwitcher}
           mainSwitcher={this.mainSwitcher}
