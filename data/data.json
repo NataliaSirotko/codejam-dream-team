@@ -2,9 +2,10 @@
   {
     "ru": [
       {
+        "id": 1,
         "name": "Георгий Владимирович Заборский",
         "city": "Минск",
-        "photo": "./img/zaborsky/zaborsky.jpg",
+        "photo": "images/zaborsky/zaborsky.jpg",
         "description": "Народный архитектор СССР, заслуженный строитель Беларуси, академик Российской академии архитектуры и строительных наук, академик Белорусской академии архитектуры, лауреат Государственной премии СССР.",
         "creations": [
           {
@@ -71,23 +72,28 @@
           }
         ],
         "gallery": [
-          "./img/zaborsky/1.jpg",
-          "./img/zaborsky/2.jpg",
-          "./img/zaborsky/3.jpg",
-          "./img/zaborsky/4.jpg",
-          "./img/zaborsky/5.jpg",
-          "./img/zaborsky/6.jpg",
-          "./img/zaborsky/7.jpg",
-          "./img/zaborsky/8.jpg",
-          "./img/zaborsky/9.jpg"
+          "images/zaborsky/1.jpg",
+          "images/zaborsky/2.jpg",
+          "images/zaborsky/3.jpg",
+          "images/zaborsky/4.jpg",
+          "images/zaborsky/5.jpg",
+          "images/zaborsky/6.jpg",
+          "images/zaborsky/7.jpg",
+          "images/zaborsky/8.jpg",
+          "images/zaborsky/9.jpg"
         ],
-        "video": "https://youtu.be/lxMfVdAml1A",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/lxMfVdAml1A",
+        "videosrc": "images/zaborsky/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 2,
         "name": "Виктор Иванович Карако",
         "city": "Гродно",
-        "photo": "./img/karako/karako.jpg",
+        "photo": "images/karako/karako.jpg",
         "description": "Белорусский архитектор, член правления Белорусского союза архитекторов, лауреат премии Ленинского Комсомола Беларуси, руководитель творческой мастерской.",
         "creations": [
           {
@@ -154,22 +160,27 @@
           }
         ],
         "gallery": [
-          "./img/karako/1.jpg",
-          "./img/karako/2.jpg",
-          "./img/karako/3.jpg",
-          "./img/karako/4.jpg",
-          "./img/karako/5.jpg",
-          "./img/karako/6.jpg",
-          "./img/karako/7.jpg",
-          "./img/karako/8.jpg"
+          "images/karako/1.jpg",
+          "images/karako/2.jpg",
+          "images/karako/3.jpg",
+          "images/karako/4.jpg",
+          "images/karako/5.jpg",
+          "images/karako/6.jpg",
+          "images/karako/7.jpg",
+          "images/karako/8.jpg"
         ],
-        "video": "https://youtu.be/S39Yeg8Slg4",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/S39Yeg8Slg4",
+        "videosrc": "images/karako/video.jpg",
+        "coordinates": {
+          "n": 53.669056,
+          "e": 23.824357
+        }
       },
       {
+        "id": 3,
         "name": "Владимир Адамович Король",
         "city": "Червень",
-        "photo": "./img/korol/korol.jpg",
+        "photo": "images/korol/korol.jpg",
         "description": "Народный архитектор СССР. Член ВКП(б) с 1940 года.",
         "creations": [
           {
@@ -240,23 +251,28 @@
           }
         ],
         "gallery": [
-          "./img/korol/1.jpg",
-          "./img/korol/2.jpg",
-          "./img/korol/3.jpg",
-          "./img/korol/4.jpg",
-          "./img/korol/5.jpg",
-          "./img/korol/6.jpg",
-          "./img/korol/7.jpg",
-          "./img/korol/8.jpg",
-          "./img/korol/9.jpg"
+          "images/korol/1.jpg",
+          "images/korol/2.jpg",
+          "images/korol/3.jpg",
+          "images/korol/4.jpg",
+          "images/korol/5.jpg",
+          "images/korol/6.jpg",
+          "images/korol/7.jpg",
+          "images/korol/8.jpg",
+          "images/korol/9.jpg"
         ],
-        "video": "https://youtu.be/khRplMaYHek",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/khRplMaYHek",
+        "videosrc": "images/korol/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 4,
         "name": "Анатолий Иосифович Фридман",
         "city": "Минск",
-        "photo": "./img/fridman/fridman.jpg",
+        "photo": "images/fridman/fridman.jpg",
         "description": "Белорусский архитектор. Член Союза архитекторов СССР и Белоруссии с 1973 года.",
         "creations": [
           {
@@ -331,20 +347,25 @@
           }
         ],
         "gallery": [
-          "./img/fridman/1.jpg",
-          "./img/fridman/2.jpg",
-          "./img/fridman/3.jpg",
-          "./img/fridman/4.jpg",
-          "./img/fridman/5.jpg",
-          "./img/fridman/6.jpg"
+          "images/fridman/1.jpg",
+          "images/fridman/2.jpg",
+          "images/fridman/3.jpg",
+          "images/fridman/4.jpg",
+          "images/fridman/5.jpg",
+          "images/fridman/6.jpg"
         ],
-        "video": "https://youtu.be/gw6ShOcw1UM",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/gw6ShOcw1UM",
+        "videosrc": "images/fridman/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 5,
         "name": "Станислав Данилович Шабуневский",
         "city": "Скородное",
-        "photo": "./img/shabunevsky/shabunevsky.jpg",
+        "photo": "images/shabunevsky/shabunevsky.jpg",
         "description": "Белорусский архитектор, автор значительной части застройки Гомеля начала XX в. Почётный гражданин Гомеля.",
         "creations": [
           {
@@ -411,26 +432,31 @@
           }
         ],
         "gallery": [
-          "./img/shabunevsky/1.jpg",
-          "./img/shabunevsky/2.jpg",
-          "./img/shabunevsky/3.jpg",
-          "./img/shabunevsky/4.jpg",
-          "./img/shabunevsky/5.jpg",
-          "./img/shabunevsky/6.jpg",
-          "./img/shabunevsky/7.jpg",
-          "./img/shabunevsky/8.jpg"
+          "images/shabunevsky/1.jpg",
+          "images/shabunevsky/2.jpg",
+          "images/shabunevsky/3.jpg",
+          "images/shabunevsky/4.jpg",
+          "images/shabunevsky/5.jpg",
+          "images/shabunevsky/6.jpg",
+          "images/shabunevsky/7.jpg",
+          "images/shabunevsky/8.jpg"
         ],
-        "video": "https://youtu.be/a43rFmrY78c",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/a43rFmrY78c",
+        "videosrc": "images/shabunevsky/video.jpg",
+        "coordinates": {
+          "n": 52.440875,
+          "e": 30.984361
+        }
       }
     ]
   },
   {
     "en": [
       {
+        "id": 1,
         "name": "Heorhiy Vladimirovich Zaborsky",
         "city": "Minsk",
-        "photo": "./img/zaborsky/zaborsky.jpg",
+        "photo": "images/zaborsky/zaborsky.jpg",
         "description": "Folk Architect of the USSR, Honored builder of Belarus, academician of the Russian Academy of Architecture and Construction Sciences, academician of the Belarusian Academy of Architecture, USSR State Prize winner.",
         "creations": [
           {
@@ -497,23 +523,28 @@
           }
         ],
         "gallery": [
-          "./img/zaborsky/1.jpg",
-          "./img/zaborsky/2.jpg",
-          "./img/zaborsky/3.jpg",
-          "./img/zaborsky/4.jpg",
-          "./img/zaborsky/5.jpg",
-          "./img/zaborsky/6.jpg",
-          "./img/zaborsky/7.jpg",
-          "./img/zaborsky/8.jpg",
-          "./img/zaborsky/9.jpg"
+          "images/zaborsky/1.jpg",
+          "images/zaborsky/2.jpg",
+          "images/zaborsky/3.jpg",
+          "images/zaborsky/4.jpg",
+          "images/zaborsky/5.jpg",
+          "images/zaborsky/6.jpg",
+          "images/zaborsky/7.jpg",
+          "images/zaborsky/8.jpg",
+          "images/zaborsky/9.jpg"
         ],
-        "video": "https://youtu.be/lxMfVdAml1A",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/lxMfVdAml1A",
+        "videosrc": "images/zaborsky/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 2,
         "name": "Victor Ivanovich Karako",
         "city": "Grodno",
-        "photo": "./img/karako/karako.jpg",
+        "photo": "images/karako/karako.jpg",
         "description": "Belarusian architect, board member of the Belarusian Union of Architects, laureate of the Lenin Komsomol Prize of Belarus, head of the creative workshop.",
         "creations": [
           {
@@ -580,23 +611,28 @@
           }
         ],
         "gallery": [
-          "./img/karako/1.jpg",
-          "./img/karako/2.jpg",
-          "./img/karako/3.jpg",
-          "./img/karako/4.jpg",
-          "./img/karako/5.jpg",
-          "./img/karako/6.jpg",
-          "./img/karako/7.jpg",
-          "./img/karako/8.jpg"
+          "images/karako/1.jpg",
+          "images/karako/2.jpg",
+          "images/karako/3.jpg",
+          "images/karako/4.jpg",
+          "images/karako/5.jpg",
+          "images/karako/6.jpg",
+          "images/karako/7.jpg",
+          "images/karako/8.jpg"
         ],
-        "video": "https://youtu.be/S39Yeg8Slg4",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/S39Yeg8Slg4",
+        "videosrc": "images/karako/video.jpg",
+        "coordinates": {
+          "n": 53.669056,
+          "e": 23.824357
+        }
       },
       {
+        "id": 3,
         "name": "Vladimir Adamovich Karol",
         "city": "Cherven",
-        "photo": "./img/korol/korol.jpg",
-        "description": "Folk Architect of the USSR. Member of the UCP(b) from 1940.",
+        "photo": "images/korol/korol.jpg",
+        "description": "Folk Architect of the USSR. Member of the UCP(b) from 1940.",
         "creations": [
           {
             "name": "One of the authors of the development of the general plan of Minsk",
@@ -666,23 +702,28 @@
           }
         ],
         "gallery": [
-          "./img/korol/1.jpg",
-          "./img/korol/2.jpg",
-          "./img/korol/3.jpg",
-          "./img/korol/4.jpg",
-          "./img/korol/5.jpg",
-          "./img/korol/6.jpg",
-          "./img/korol/7.jpg",
-          "./img/korol/8.jpg",
-          "./img/korol/9.jpg"
+          "images/korol/1.jpg",
+          "images/korol/2.jpg",
+          "images/korol/3.jpg",
+          "images/korol/4.jpg",
+          "images/korol/5.jpg",
+          "images/korol/6.jpg",
+          "images/korol/7.jpg",
+          "images/korol/8.jpg",
+          "images/korol/9.jpg"
         ],
-        "video": "https://youtu.be/khRplMaYHek",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/khRplMaYHek",
+        "videosrc": "images/korol/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 4,
         "name": "Anatoly Iosifovich Fridman",
         "city": "Minsk",
-        "photo": "./img/fridman/fridman.jpg",
+        "photo": "images/fridman/fridman.jpg",
         "description": "Belarusian architect. Member of the Union of Architects of the USSR and Belarus since 1973.",
         "creations": [
           {
@@ -710,7 +751,7 @@
             "year": "1987"
           },
           {
-            "name": "SPU-55 in Minsk (1988 г.), dispensary of the Academy of Sciences of the BSSR near the Rakov village",
+            "name": "SPU-55 in Minsk (1988 г.), dispensary of the Academy of Sciences of the BSSR near the Rakov village",
             "year": "1976"
           },
           {
@@ -757,24 +798,29 @@
           }
         ],
         "gallery": [
-          "./img/fridman/1.jpg",
-          "./img/fridman/2.jpg",
-          "./img/fridman/3.jpg",
-          "./img/fridman/4.jpg",
-          "./img/fridman/5.jpg",
-          "./img/fridman/6.jpg"
+          "images/fridman/1.jpg",
+          "images/fridman/2.jpg",
+          "images/fridman/3.jpg",
+          "images/fridman/4.jpg",
+          "images/fridman/5.jpg",
+          "images/fridman/6.jpg"
         ],
-        "video": "https://youtu.be/gw6ShOcw1UM",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/gw6ShOcw1UM",
+        "videosrc": "images/fridman/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 5,
         "name": "Stanislav Danilovich Shabunevsky",
         "city": "Skorodnoye",
-        "photo": "./img/shabunevsky/shabunevsky.jpg",
+        "photo": "images/shabunevsky/shabunevsky.jpg",
         "description": "Belarusian architect, author of a significant part of the building development in Gomel at the beginning of the 20th century. Honorary Citizen of Gomel.",
         "creations": [
           {
-            "name": "Men’s gymnasium in Gomel (1898, now one of blocks of the Belarusian State University of Transport)",
+            "name": "Men’s gymnasium in Gomel (1898, now one of blocks of the Belarusian State University of Transport)",
             "year": "1898"
           },
           {
@@ -794,7 +840,7 @@
             "year": "1903"
           },
           {
-            "name": "Fire department on Zamkovaya street in Gomel(1913, did not remain up to now)",
+            "name": "Fire department on Zamkovaya street in Gomel(1913, did not remain up to now)",
             "year": "1913"
           },
           {
@@ -837,26 +883,31 @@
           }
         ],
         "gallery": [
-          "./img/shabunevsky/1.jpg",
-          "./img/shabunevsky/2.jpg",
-          "./img/shabunevsky/3.jpg",
-          "./img/shabunevsky/4.jpg",
-          "./img/shabunevsky/5.jpg",
-          "./img/shabunevsky/6.jpg",
-          "./img/shabunevsky/7.jpg",
-          "./img/shabunevsky/8.jpg"
+          "images/shabunevsky/1.jpg",
+          "images/shabunevsky/2.jpg",
+          "images/shabunevsky/3.jpg",
+          "images/shabunevsky/4.jpg",
+          "images/shabunevsky/5.jpg",
+          "images/shabunevsky/6.jpg",
+          "images/shabunevsky/7.jpg",
+          "images/shabunevsky/8.jpg"
         ],
-        "video": "https://youtu.be/a43rFmrY78c",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/a43rFmrY78c",
+        "videosrc": "images/shabunevsky/video.jpg",
+        "coordinates": {
+          "n": 52.440875,
+          "e": 30.984361
+        }
       }
     ]
   },
   {
     "by": [
       {
+        "id": 1,
         "name": "Георгій Уладзіміравіч Заборскі",
         "city": "Мiнск",
-        "photo": "./img/zaborsky/zaborsky.jpg",
+        "photo": "images/zaborsky/zaborsky.jpg",
         "description": "Народны архітэктар СССР, заслужаны будаўнік БССР, акадэмік Расійскай акадэміі архітэктуры і будаўнічых навук, акадэмік Беларускай акадэміі архітэктуры, лаўрэат Дзяржаўнай прэміі СССР",
         "creations": [
           {
@@ -923,23 +974,28 @@
           }
         ],
         "gallery": [
-          "./img/zaborsky/1.jpg",
-          "./img/zaborsky/2.jpg",
-          "./img/zaborsky/3.jpg",
-          "./img/zaborsky/4.jpg",
-          "./img/zaborsky/5.jpg",
-          "./img/zaborsky/6.jpg",
-          "./img/zaborsky/7.jpg",
-          "./img/zaborsky/8.jpg",
-          "./img/zaborsky/9.jpg"
+          "images/zaborsky/1.jpg",
+          "images/zaborsky/2.jpg",
+          "images/zaborsky/3.jpg",
+          "images/zaborsky/4.jpg",
+          "images/zaborsky/5.jpg",
+          "images/zaborsky/6.jpg",
+          "images/zaborsky/7.jpg",
+          "images/zaborsky/8.jpg",
+          "images/zaborsky/9.jpg"
         ],
-        "video": "https://youtu.be/lxMfVdAml1A",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/lxMfVdAml1A",
+        "videosrc": "images/zaborsky/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 2,
         "name": "Віктар Іванавіч Карака",
         "city": "Гродна",
-        "photo": "./img/karako/karako.jpg",
+        "photo": "images/karako/karako.jpg",
         "description": "Беларускі архітэктар, член праўлення Беларускага саюза архітэктараў, лаўрэат Прэміі Ленінскага камсамола Беларусі, кіраўнік творчай майстэрні",
         "creations": [
           {
@@ -1006,22 +1062,27 @@
           }
         ],
         "gallery": [
-          "./img/karako/1.jpg",
-          "./img/karako/2.jpg",
-          "./img/karako/3.jpg",
-          "./img/karako/4.jpg",
-          "./img/karako/5.jpg",
-          "./img/karako/6.jpg",
-          "./img/karako/7.jpg",
-          "./img/karako/8.jpg"
+          "images/karako/1.jpg",
+          "images/karako/2.jpg",
+          "images/karako/3.jpg",
+          "images/karako/4.jpg",
+          "images/karako/5.jpg",
+          "images/karako/6.jpg",
+          "images/karako/7.jpg",
+          "images/karako/8.jpg"
         ],
-        "video": "https://youtu.be/S39Yeg8Slg4",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/S39Yeg8Slg4",
+        "videosrc": "images/karako/video.jpg",
+        "coordinates": {
+          "n": 53.669056,
+          "e": 23.824357
+        }
       },
       {
+        "id": 3,
         "name": "Уладзімір Адамавіч Кароль",
         "city": "Чэрвень",
-        "photo": "./img/korol/korol.jpg",
+        "photo": "images/korol/korol.jpg",
         "description": "Народны архітэктар СССР (1970). Член ВКП (б) з 1940 года.",
         "creations": [
           {
@@ -1092,23 +1153,28 @@
           }
         ],
         "gallery": [
-          "./img/korol/1.jpg",
-          "./img/korol/2.jpg",
-          "./img/korol/3.jpg",
-          "./img/korol/4.jpg",
-          "./img/korol/5.jpg",
-          "./img/korol/6.jpg",
-          "./img/korol/7.jpg",
-          "./img/korol/8.jpg",
-          "./img/korol/9.jpg"
+          "images/korol/1.jpg",
+          "images/korol/2.jpg",
+          "images/korol/3.jpg",
+          "images/korol/4.jpg",
+          "images/korol/5.jpg",
+          "images/korol/6.jpg",
+          "images/korol/7.jpg",
+          "images/korol/8.jpg",
+          "images/korol/9.jpg"
         ],
-        "video": "https://youtu.be/khRplMaYHek",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/khRplMaYHek",
+        "videosrc": "images/korol/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 4,
         "name": "Анатоль Іосіфавіч Фрыдман",
         "city": "Мiнск",
-        "photo": "./img/fridman/fridman.jpg",
+        "photo": "images/fridman/fridman.jpg",
         "description": "Беларускі архітэктар. Член Саюза архітэктараў СССР і Беларусі з 1973 года.",
         "creations": [
           {
@@ -1183,20 +1249,25 @@
           }
         ],
         "gallery": [
-          "./img/fridman/1.jpg",
-          "./img/fridman/2.jpg",
-          "./img/fridman/3.jpg",
-          "./img/fridman/4.jpg",
-          "./img/fridman/5.jpg",
-          "./img/fridman/6.jpg"
+          "images/fridman/1.jpg",
+          "images/fridman/2.jpg",
+          "images/fridman/3.jpg",
+          "images/fridman/4.jpg",
+          "images/fridman/5.jpg",
+          "images/fridman/6.jpg"
         ],
-        "video": "https://youtu.be/gw6ShOcw1UM",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/gw6ShOcw1UM",
+        "videosrc": "images/fridman/video.jpg",
+        "coordinates": {
+          "n": 53.894435,
+          "e": 27.554941
+        }
       },
       {
+        "id": 5,
         "name": "Станіслаў Данілавіч Шабунеўскi",
         "city": "Скароднае",
-        "photo": "./img/shabunevsky/shabunevsky.jpg",
+        "photo": "images/shabunevsky/shabunevsky.jpg",
         "description": "Беларускі архітэктар, аўтар значнай часткі забудовы Гомеля пачатку XX ст. Ганаровы грамадзянін г. Гомеля.",
         "creations": [
           {
@@ -1263,17 +1334,21 @@
           }
         ],
         "gallery": [
-          "./img/shabunevsky/1.jpg",
-          "./img/shabunevsky/2.jpg",
-          "./img/shabunevsky/3.jpg",
-          "./img/shabunevsky/4.jpg",
-          "./img/shabunevsky/5.jpg",
-          "./img/shabunevsky/6.jpg",
-          "./img/shabunevsky/7.jpg",
-          "./img/shabunevsky/8.jpg"
+          "images/shabunevsky/1.jpg",
+          "images/shabunevsky/2.jpg",
+          "images/shabunevsky/3.jpg",
+          "images/shabunevsky/4.jpg",
+          "images/shabunevsky/5.jpg",
+          "images/shabunevsky/6.jpg",
+          "images/shabunevsky/7.jpg",
+          "images/shabunevsky/8.jpg"
         ],
-        "video": "https://youtu.be/a43rFmrY78c",
-        "coordinates": "don't touch this :)"
+        "video": "https://www.youtube.com/embed/a43rFmrY78c",
+        "videosrc": "images/shabunevsky/video.jpg",
+        "coordinates": {
+          "n": 52.440875,
+          "e": 30.984361
+        }
       }
     ]
   }
